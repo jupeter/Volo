@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "jhipsterVersion": "3.6.1",
+    "baseName": "volo",
+    "packageName": "com.teamlab.volo",
+    "packageFolder": "com/teamlab/volo",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "buildTool": "maven",
+    "enableSocialSignIn": true,
+    "rememberMeKey": "5fea437d8a9ba41c918847f868d77a6619119198",
+    "useSass": true,
+    "applicationType": "monolith",
+    "testFrameworks": [
+      "gatling",
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "pl"
+    ]
+  }
+}
